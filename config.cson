@@ -1,0 +1,28 @@
+"*":
+    "atom-beautify":
+        general:
+            _analyticsUserId: "f4fdd8ee-06a5-4083-b9c8-9457304fd6fc"
+    core: {}
+    editor:
+        fontFamily: "Codename Coder Free 4F "
+        fontSize: 15
+        invisibles: {}
+        softWrap: true
+        softWrapAtPreferredLineLength: true
+    "exception-reporting":
+        userId: "0f9e699f-b732-f86c-fa6e-aa1ec02f5002"
+    "vim-surround": {}
+    welcome:
+        showOnStartup: false
+
+# ADDONY
+#
+# vim-surround
+# vim-mode
+# relative-numbers
+# highlight-line
+# ex-mode
+# autocomplete-python
+# autoclose-html
+# atom-beautify
+#
